@@ -45,10 +45,6 @@
 <br clear="all" />
 <br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/main/github-metrics.svg" width="100%" />
-</p>
-
 ---
 
 ### 🎮 Contribution Games (Snake & Pacman)
