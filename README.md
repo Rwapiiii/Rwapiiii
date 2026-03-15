@@ -62,20 +62,9 @@
 ---
 
 ### 🎵 Listening on Spotify
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&theme=tokyonight">
-        <img src="https://novatorem-spotify-api.vercel.app/api/now-playing?user=31vip4sgtwgdpx6vdgh2tcgnbgie&theme=tokyonight&background_color=1a1b26&bar_color=a970ff" width="400px" alt="Spotify Now Playing">
-      </a>
-    </td>
-    <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vip4sgtwgdpx6vdgh2tcgnbgie" width="350px" alt="Recently Played" />
-    </td>
-  </tr>
-</table>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=901ac7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<br />
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vip4sgtwgdpx6vdgh2tcgnbgie)
 
 ---
 
