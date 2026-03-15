@@ -16,22 +16,21 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rwapiiii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwapiiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
@@ -40,7 +39,7 @@
 
 ### 🎮 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username-kamu/username-kamu/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
+  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
 </p>
 
 ---
