@@ -59,7 +59,7 @@
 
 ### 🎵 Listening on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&cover_image=true&theme=tokyonight" width="100%" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie &cover_image=true&theme=tokyonight" width="100%" />
 </p>
 
 ---
