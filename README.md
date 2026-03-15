@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="/image/github-header-banner.png" alt="Muhammad Naufal Rafi Yasykur Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/main/image/github-header-banner.png" alt="Muhammad Naufal Rafi Yasykur Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Python+Developer;C+%2F+C%2B%2B+Programmer;JavaScript+%26+React+Specialist;Building+Future+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 - 🎓 **Education:** Undergraduate Computer Engineering Student at **University of Indonesia**
-- 🔭 **Focus:** Deep Learning, AI, and Software Engineering
-- 🌱 **Learning:** Currently diving deeper into **MLOps and Cloud Architecture**
+- 🔭 **Focus:** FullStack Developer, Web Developer, and Software Engineering
+- 🌱 **Learning:** Currently diving deeper into **Full Stack Developer and Web Security**
 - ⚡ **Fun fact:** I love Pokemon and solving complex problems with clean code!
 
 ---
@@ -25,21 +25,44 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
+<br clear="all" />
+
 ---
 
-### 📊 GitHub Stats
+### 🏢 3D Contribution World
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics
 <p align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rwapiiii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwapiiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br clear="all" />
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/main/github-metrics.svg" width="100%" />
+</p>
 
 ---
 
-### 🎮 Contribution Snake
+### 🎮 Contribution Games (Snake & Pacman)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
+  <br />
+  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/main/pacman.svg" alt="Pacman" width="100%">
+</p>
+
+---
+
+### 🎵 Listening on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&cover_image=true&theme=tokyonight" width="100%" />
 </p>
 
 ---
