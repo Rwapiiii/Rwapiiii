@@ -8,7 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: jmccreith/funny-stats@v1.0.1
         with:
           github_user_name: ${{ github.repository_owner }}
