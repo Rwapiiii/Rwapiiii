@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username-kamu/username-kamu/main/github-header-banner.jpg" alt="Muhammad Naufal Rafi Yasykur Banner" width="100%">
+  <img src="/image/github-header-banner.png" alt="Muhammad Naufal Rafi Yasykur Banner" width="100%">
 </p>
 
 <p align="center">
