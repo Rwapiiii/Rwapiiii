@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Berjalan otomatis setiap jam 00:00 UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Memungkinkan kamu menjalankan manual dari tab Actions
+  schedule:
+    - cron: "0 0 * * *" # Jalan otomatis setiap hari jam 12 malam
+  workflow_dispatch: # Supaya bisa kamu klik "Run" manual kapan saja
 
 jobs:
   build:
@@ -11,14 +11,21 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yuzutech/github-profile-3d-contrib@main
+      
+      - name: Generate 3D Contribution Graph
+        uses: jasonwebb/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push Changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          # Membuat folder jika belum ada (sesuai path di README kamu)
+          mkdir -p profile-3d-contrib 
+          # Pindahkan file hasil generate ke folder tujuan
+          mv profile-3d-contrib/* profile-3d-contrib/ 2>/dev/null || true
           git add -A .
-          git commit -m "Generated 3D Profile Contrib" || exit 0
+          git commit -m "chore: update 3d contribution graph" || exit 0
           git push
