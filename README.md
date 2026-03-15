@@ -65,11 +65,7 @@
 ---
 
 ### 🎵 Listening on Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/31vip4sgtwgdpx6vdgh2tcgnbgie">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&cover_image=true&theme=tokyonight&bar_color=a970ff&bar_color_light=a970ff" alt="Spotify Now Playing" width="100%">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vip4sgtwgdpx6vdgh2tcgnbgie&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=901ac7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vip4sgtwgdpx6vdgh2tcgnbgie)
 
