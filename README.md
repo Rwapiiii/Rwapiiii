@@ -47,10 +47,7 @@
 
 ---
 
-### 🎮 Contribution Games (Snake & Pacman)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
-  
+### 🎮 Contribution Games   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rwapiiii/Rwapiiii/output/pacman-contribution-graph.svg">
